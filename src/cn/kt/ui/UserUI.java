@@ -85,12 +85,14 @@ public class UserUI extends JFrame {
         contentPanel.add(btnPanel);
 
         buttonOK.addActionListener(new ActionListener() {
+            @Override
             public void actionPerformed(ActionEvent e) {
                 onOK(driverClass, address, persistentConfig, project);
             }
         });
 
         buttonCancel.addActionListener(new ActionListener() {
+            @Override
             public void actionPerformed(ActionEvent e) {
                 onCancel();
             }

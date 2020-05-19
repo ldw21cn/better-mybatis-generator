@@ -1,15 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68941afc-4b94-4150-a7b5-2b781a5a5b4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectId" id="1c7su2fafBrHUgvyItBJ7XMsSEE" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
@@ -30,5 +65,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68941afc-4b94-4150-a7b5-2b781a5a5b4e" name="Default Changelist" comment="" />
+      <created>1589891184572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589891184572</updated>
+      <workItem from="1589891186203" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589891531916">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state x="324" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/39.22.1641.1028@39.22.1641.1028" timestamp="1589891531916" />
+    <state x="704" y="443" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589891225936">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state x="704" y="443" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/39.22.1641.1028@39.22.1641.1028" timestamp="1589891225936" />
+    <state width="1596" height="345" key="GridCell.Tab.0.bottom" timestamp="1589891935723">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="345" key="GridCell.Tab.0.bottom/39.22.1641.1028@39.22.1641.1028" timestamp="1589891935723" />
+    <state width="1596" height="345" key="GridCell.Tab.0.center" timestamp="1589891935723">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="345" key="GridCell.Tab.0.center/39.22.1641.1028@39.22.1641.1028" timestamp="1589891935723" />
+    <state width="1596" height="345" key="GridCell.Tab.0.left" timestamp="1589891935722">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="345" key="GridCell.Tab.0.left/39.22.1641.1028@39.22.1641.1028" timestamp="1589891935722" />
+    <state width="1596" height="345" key="GridCell.Tab.0.right" timestamp="1589891935723">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="345" key="GridCell.Tab.0.right/39.22.1641.1028@39.22.1641.1028" timestamp="1589891935723" />
+    <state width="1596" height="280" key="GridCell.Tab.1.bottom" timestamp="1589891930645">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="280" key="GridCell.Tab.1.bottom/39.22.1641.1028@39.22.1641.1028" timestamp="1589891930645" />
+    <state width="1596" height="280" key="GridCell.Tab.1.center" timestamp="1589891930644">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="280" key="GridCell.Tab.1.center/39.22.1641.1028@39.22.1641.1028" timestamp="1589891930644" />
+    <state width="1596" height="280" key="GridCell.Tab.1.left" timestamp="1589891930644">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="280" key="GridCell.Tab.1.left/39.22.1641.1028@39.22.1641.1028" timestamp="1589891930644" />
+    <state width="1596" height="280" key="GridCell.Tab.1.right" timestamp="1589891930645">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state width="1596" height="280" key="GridCell.Tab.1.right/39.22.1641.1028@39.22.1641.1028" timestamp="1589891930645" />
+    <state x="398" y="175" key="SettingsEditor" timestamp="1589891799038">
+      <screen x="39" y="22" width="1641" height="1028" />
+    </state>
+    <state x="398" y="175" key="SettingsEditor/39.22.1641.1028@39.22.1641.1028" timestamp="1589891799038" />
   </component>
 </project>
